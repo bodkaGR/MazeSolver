@@ -1,0 +1,15 @@
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.AssemblyReference.cache
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\obj\Debug\net6.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfoInputs.cache
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\obj\Debug\net6.0\Lab2.AssemblyInfo.cs
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\obj\Debug\net6.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\bin\Debug\net6.0\Lab2.exe
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\bin\Debug\net6.0\Lab2.deps.json
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\bin\Debug\net6.0\Lab2.runtimeconfig.json
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\bin\Debug\net6.0\Lab2.dll
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\bin\Debug\net6.0\Lab2.pdb
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\obj\Debug\net6.0\Lab2.dll
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\obj\Debug\net6.0\refint\Lab2.dll
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\obj\Debug\net6.0\Lab2.pdb
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\obj\Debug\net6.0\Lab2.genruntimeconfig.cache
+D:\Programing\asd_second_curs\pa-hrontkovskyy-boh\src\Lab2\Lab2\obj\Debug\net6.0\ref\Lab2.dll
