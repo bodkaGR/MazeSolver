@@ -24,7 +24,7 @@ To clone the program and run it, follow these instructions.
 
 1. Clone the repository
     
-    ``git clone https://github.com/PAIP-24/pa-hrontkovskyy-boh.git``
+    ``git clone https://github.com/bodkaGR/MazeSolver``
 
 2. To run the program
 
